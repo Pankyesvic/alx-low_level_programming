@@ -9,15 +9,15 @@
  */
 int main(void)
 {
-int ch = 'a';
-for (ch = 'a'; ch <= 'z'; ch++;);
-{
-putchar(ch);
-}
-for (ch = 'A': ch <= 'Z'; ch++;);
-{
-putchar(ch);
-}
-putch('\n');
-return (0);
+	char ch;
+
+	for (ch = 'a'; ch <= 'z'; ch++)
+		putchar(ch);
+
+	for (ch = 'A'; ch <= 'Z'; ch++)
+		putchar(ch);
+
+	putchar('\n');
+
+	return (0);
 }
