@@ -9,8 +9,8 @@
  */
 int main(void)
 {
-char ch = 'a';
-char CH = 'A';
+int ch = 'a';
+int CH = 'A';
 while (ch <= 'z');
 {
 putchar(ch);
