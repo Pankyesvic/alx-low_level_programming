@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - program that print all possible different combinations of two digits
- * Return: Always 0
+ * main - print the number from 00 to 99
+ * Return: Always 0 (Success)
  */
 
 int main(void)
