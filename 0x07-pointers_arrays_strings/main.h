@@ -1,20 +1,3 @@
-
-Sirtuns4real
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x07-pointers_arrays_strings/main.h
-@Sirtuns4real
-Sirtuns4real main.h
- 1 contributor
-24 lines (13 sloc)  446 Bytes
 #ifndef MAIN_H
 #define MAIN_H
 
